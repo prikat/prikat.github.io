@@ -1,0 +1,36 @@
+
+header {
+        border-style: double;
+        padding: 14px;
+        background-color: #3086b8;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        text-align: center;
+
+}
+h1  {
+    font-family: "Bradley Hand", cursive;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.wrapper {
+    width: 600px;
+    text-align: left;
+    margin: auto;
+    font-family: monospace;
+    font-size: 20px;
+    color: rgb(207, 238, 34);
+    font-weight: bold;
+    
+}
+
+body {
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Free-Wallpaper-HD-Background-Download.png);
+    background-size: cover;
+}
+
+.main {
+    width: 600px;
+    margin: auto;
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/06/Download-Wallpaper-HD-Background.png);
+}
