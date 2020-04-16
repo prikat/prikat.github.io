@@ -1,9 +1,55 @@
 header {
-    background-color: gray;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
+    text-decoration: chocolate;
 }
 
-h1 {
+p {
     text-align: center;
-    font-family: sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 1000;
+    color: darkblue;
+    left: 40px;
+
 }
+#Alex1,
+#Alex2 {
+    float: left;
+    width: 400px;
+    margin-left: 80px;
+    padding: 5px;
+    
+
+}
+
+.contact {
+    float: right;
+    margin-right: 80px;
+    margin-top: 80px;
+    /* background-color: darkgray; */
+    text-align: left;
+    padding: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h3  {
+    text-align: center;
+}
+#toph1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 600;
+    color: black;
+}
+
+body {
+    background-image: url(http://eskipaper.com/images/light-background-wallpaper-1.jpg);
+    background-size: cover;
+}
+/* .footer {
+    float: inline-end;
+
+} */
